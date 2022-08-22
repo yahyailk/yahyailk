@@ -4,6 +4,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/yahya-ilkdo%C4%9Fan-b55a061a1)
 <br />
+<br />
 
 ### Technologies
 
@@ -16,6 +17,7 @@
 [<img align="left" alt="Jquery" width="26px" src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" style="padding-right:10px;" />]()
 [<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="padding-right:10px;" />]()
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="padding-right:10px;" />]()
+<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyailk)](https://github.com/anuraghazra/github-readme-stats)
