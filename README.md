@@ -16,6 +16,7 @@
 [<img align="left" alt="Jquery" width="26px" src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" style="padding-right:10px;" />]()
 [<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" style="padding-right:10px;" />]()
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="padding-right:10px;" />]()
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyailk)](https://github.com/anuraghazra/github-readme-stats)
 
