@@ -1,4 +1,4 @@
-### Hi there, my name is Yahya, I'm Front-End Developer.  👋
+### Hi, my name is Yahya, I'm Front-End Developer.  
 
 ### Technologies
 
