@@ -2,7 +2,7 @@
 
 ### Contact me
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/yahya-ilkdo%C4%9Fan-b55a061a1)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="padding-right:10px;" />](https://www.linkedin.com/in/yahya-ilkdogan/)
 <br />
 <br />
 
